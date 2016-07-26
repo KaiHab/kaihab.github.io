@@ -10,25 +10,9 @@
 
   
     ,{
-      "title"			: "Leistungen für Wasser- und Gaszählerwechsel",
-      "link"			: "/service/Leistungen-Services/",
-      "excerpt"		: "  Über 20 Jahre Erfahrung.  Wie wissen worüber wir sprechen."
-    }
-  
-
-  
-    ,{
       "title"			: "Kunden und Partner in der Wasserhygiene",
       "link"			: "/hygiene/Partner-Wasserhygiene/",
       "excerpt"		: "Zu unseren zufriedenen und langjährigen Kunden zählen wir zahlreiche Wasserversorger und Stadtwerke im gesamten norddeutschen Raum."
-    }
-  
-
-  
-    ,{
-      "title"			: "Leistungen rund um Trinkwasser und -behälter",
-      "link"			: "/hygiene/Leistungen-Wasserhygiene/",
-      "excerpt"		: "Unsere Leistungen im Überblick"
     }
   
 

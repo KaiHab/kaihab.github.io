@@ -3,7 +3,7 @@
   
     {
       "title"			: "Neues Design",
-      "link"			: "/articles/blog/new-design/",
+      "link"			: "http://www.habighorst.org/articles/blog/new-design/",
       "excerpt"		: "Vorstellung des neuen Designs der Firma Habighorst"
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Kunden und Partner in der Wasserhygiene",
-      "link"			: "/hygiene/Partner-Wasserhygiene/",
+      "link"			: "http://www.habighorst.org/hygiene/Partner-Wasserhygiene/",
       "excerpt"		: "Zu unseren zufriedenen und langjährigen Kunden zählen wir zahlreiche Wasserversorger und Stadtwerke im gesamten norddeutschen Raum."
     }
   
@@ -23,7 +23,7 @@
   
     ,{
       "title"			: "Informationen",
-      "link"			: "/",
+      "link"			: "http://www.habighorst.org/",
       "excerpt"		: "Unser Angebot Wasserhygiene, Zählerwechsel und guter Service"
     }
   
@@ -31,7 +31,7 @@
   
     ,{
       "title"			: "Wie sie uns erreichen",
-      "link"			: "/about/",
+      "link"			: "http://www.habighorst.org/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
@@ -41,7 +41,7 @@
   
     ,{
       "title"			: "Wasserhygiene",
-      "link"			: "/articles/",
+      "link"			: "http://www.habighorst.org/articles/",
       "excerpt"		: "Angebote und Informationen rund um Trinkwasser und Wasserhygiene."
     }
   
@@ -51,7 +51,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "/theme-setup/",
+      "link"			: "http://www.habighorst.org/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -59,7 +59,7 @@
   
     ,{
       "title"			: "Zählerwechsel",
-      "link"			: "/blog/",
+      "link"			: "http://www.habighorst.org/blog/",
       "excerpt"		: "Informationen zu unseren Dienstleistungen für Versorger"
     }
   

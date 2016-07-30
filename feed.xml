@@ -1,57 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://www.habighorst.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.habighorst.org/" rel="alternate" type="text/html" /><updated>2016-07-27T11:14:23+00:00</updated><id>http://www.habighorst.org/</id><title>Habighorst GmbH</title><subtitle>Dienstleistungen rund um das Lebensmittel Nummer 1</subtitle><entry><title>Neues Design</title><link href="http://www.habighorst.org/articles/blog/new-design/" rel="alternate" type="text/html" title="Neues Design" /><published>2016-07-10T00:00:00+00:00</published><updated>2016-07-10T00:00:00+00:00</updated><id>http://www.habighorst.org/articles/blog/new-design</id><content type="html" xml:base="http://www.habighorst.org/articles/blog/new-design/">&lt;p&gt;Mit der neuen Webseite hat sich auf das Design der Firma Habighorst geändert.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://www.habighorst.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.habighorst.org/" rel="alternate" type="text/html" /><updated>2016-07-30T17:15:57+00:00</updated><id>http://www.habighorst.org/</id><title>Habighorst GmbH</title><subtitle>Dienstleistungen rund um das Lebensmittel Nummer 1</subtitle><entry><title>Neues Design</title><link href="http://www.habighorst.org/articles/blog/new-design/" rel="alternate" type="text/html" title="Neues Design" /><published>2016-07-10T00:00:00+00:00</published><updated>2016-07-10T00:00:00+00:00</updated><id>http://www.habighorst.org/articles/blog/new-design</id><content type="html" xml:base="http://www.habighorst.org/articles/blog/new-design/">&lt;p&gt;Mit der neuen Webseite hat sich auf das Design der Firma Habighorst geändert.&lt;/p&gt;
 
-&lt;p&gt;Der derzeitige Favorit für den Briefkopf ist das Folgende.&lt;/p&gt;
+&lt;p&gt;Im folgenden finden Sie Informationen zu unseren Logos und Icons.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_whitegreen_black.svg&quot; alt=&quot;Briefkopf Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wenn immer möglich werden wir das folgende Logo verwenden.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_whitefill_biggerH_circle.svg&quot; alt=&quot;Icon Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;auswahl-unterschiedlicher-logos&quot;&gt;Auswahl unterschiedlicher Logos&lt;/h1&gt;
-
-&lt;h2 id=&quot;neuer-briefkopf--logo-mit-slogan&quot;&gt;Neuer Briefkopf &amp;amp; Logo mit Slogan&lt;/h2&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_blackgreen_black.svg&quot; alt=&quot;grünes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_blackgreen_black_opacity.svg&quot; alt=&quot;grünes Icon&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_whitegreen_black.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_greygreen_grey.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_greygreen_grey_opacity.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_greygreen_grey_whiteoutline.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstLogo_blackgreen_black_opacity_centred.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;figcaption&gt;Logo mit Slogan&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;icons&quot;&gt;Icons&lt;/h2&gt;
-
-&lt;p&gt;Auswahl an unterschiedlichen Icons.&lt;/p&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_greenfill.svg&quot; alt=&quot;grünes Icon&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_greenfill_biggerH.svg&quot; alt=&quot;grünes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_whitefill_biggerH.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-
-	&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_greenfill_circle.svg&quot; alt=&quot;grünes Icon&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_greenfill_biggerH_circle.svg&quot; alt=&quot;grünes Icon mit grösserem H&quot; /&gt;
-	&lt;img src=&quot;/images/habighorstLogo/habighorstIcon_whitefill_biggerH_circle.svg&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;figcaption&gt;Logo als Ikone&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Beispiele auf der Seite&lt;/p&gt;
+&lt;h3 id=&quot;briefkopf-logo&quot;&gt;Briefkopf Logo&lt;/h3&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;/images/habighorstLogo/logoExamples/bsp_greenIcon_circle.jpg&quot;&gt;
-		&lt;img src=&quot;/images/habighorstLogo/logoExamples/bsp_greenIcon_circle.PNG&quot; alt=&quot;grünes Icon&quot; /&gt;
+	&lt;a href=&quot;/images/habighorstLogo/prod/habighorstLogo.svg&quot;&gt;
+		&lt;img src=&quot;/images/habighorstLogo/prod/habighorstLogo.svg&quot; alt=&quot;Briefkopf Logo Original SVG&quot; /&gt;
 	&lt;/a&gt;
-	&lt;a href=&quot;/images/habighorstLogo/logoExamples/bsp_whiteIcon_circle.jpg&quot;&gt;
-		&lt;img src=&quot;/images/habighorstLogo/logoExamples/bsp_whiteIcon_circle.PNG&quot; alt=&quot;grünes Icon mit grösserem H&quot; /&gt;
+	&lt;a href=&quot;/images/habighorstLogo/prod/habighorstLogo.png&quot;&gt;
+		&lt;img style=&quot;height:170px;&quot; src=&quot;/images/habighorstLogo/prod/habighorstLogo.png&quot; alt=&quot;Briefkopf Logo 300DPI PNG &quot; /&gt;
 	&lt;/a&gt;
-	&lt;a href=&quot;/images/habighorstLogo/logoExamples/bsp_whiteIcon.jpg&quot;&gt;
-		&lt;img src=&quot;/images/habighorstLogo/logoExamples/bsp_whiteIcon.PNG&quot; alt=&quot;weißes Icon mit grösserem H&quot; /&gt;
-	&lt;/a&gt;
-	&lt;figcaption&gt;Eingebettene Ikone auf der Seite&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>habighorst</name></author><category term="Design" /><category term="Logo" /><category term="Habighorst" /><summary>Vorstellung des neuen Designs der Firma Habighorst</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.habighorst.org{&quot;feature&quot;=&gt;&quot;feature/wave.jpg&quot;}" /></entry><entry><title>Kunden und Partner in der Wasserhygiene</title><link href="http://www.habighorst.org/hygiene/Partner-Wasserhygiene/" rel="alternate" type="text/html" title="Kunden und Partner in der Wasserhygiene" /><published>2016-07-08T00:00:00+00:00</published><updated>2016-07-08T00:00:00+00:00</updated><id>http://www.habighorst.org/hygiene/Partner-Wasserhygiene</id><content type="html" xml:base="http://www.habighorst.org/hygiene/Partner-Wasserhygiene/">&lt;p&gt;Zu unseren zufriedenen und langjährigen Kunden zählen wir zahlreiche Wasserversorger und Stadtwerke im gesamten norddeutschen Raum.&lt;/p&gt;
+	&lt;figcaption&gt;Logos für den Briefkopf&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;ikone-fr-die-allgemeine-verwendung&quot;&gt;Ikone für die allgemeine Verwendung&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/habighorstLogo/prod/habighorstIcon.svg&quot; alt=&quot;Icon Logo&quot; /&gt;
+&lt;img src=&quot;/images/habighorstLogo/prod/habighorstIcon.png&quot; alt=&quot;Icon Logo&quot; /&gt;&lt;/p&gt;</content><author><name>habighorst</name></author><category term="Design" /><category term="Logo" /><category term="Habighorst" /><summary>Vorstellung des neuen Designs der Firma Habighorst</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.habighorst.org{&quot;feature&quot;=&gt;&quot;feature/wave.jpg&quot;}" /></entry><entry><title>Kunden und Partner in der Wasserhygiene</title><link href="http://www.habighorst.org/hygiene/Partner-Wasserhygiene/" rel="alternate" type="text/html" title="Kunden und Partner in der Wasserhygiene" /><published>2016-07-08T00:00:00+00:00</published><updated>2016-07-08T00:00:00+00:00</updated><id>http://www.habighorst.org/hygiene/Partner-Wasserhygiene</id><content type="html" xml:base="http://www.habighorst.org/hygiene/Partner-Wasserhygiene/">&lt;p&gt;Zu unseren zufriedenen und langjährigen Kunden zählen wir zahlreiche Wasserversorger und Stadtwerke im gesamten norddeutschen Raum.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Unsere Werte: &lt;strong&gt;Sauberkeit, Zuverlässigkeit und Umsichtigkeit&lt;/strong&gt;&lt;/p&gt;
@@ -62,4 +28,61 @@
 &lt;h2 id=&quot;langjhrige-partnerschaft-produkte-beratung-und-leistung-aus-einer-hand&quot;&gt;Langjährige Partnerschaft &lt;em&gt;Produkte, Beratung und Leistung aus einer Hand&lt;/em&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://carela-group.com/images/carela-group/logos/logo-carela-group.png&quot; alt=&quot;Carela Gruppe&quot; /&gt;
-In diesem Bereich arbeiten wir seit mehr als 10 Jahren eng mit der &lt;a href=&quot;http://www.carela.com&quot;&gt;Carela Gruppe&lt;/a&gt; zusammen, um die Qualität unseres Trinkwassers zu sichern und zu erhalten.&lt;/p&gt;</content><author><name>habighorst</name></author><category term="Kunden" /><category term="Partner" /><category term="Wasserhygiene" /><category term="Habighorst" /><summary>Zu unseren zufriedenen und langjährigen Kunden zählen wir zahlreiche Wasserversorger und Stadtwerke im gesamten norddeutschen Raum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.habighorst.org{&quot;feature&quot;=&gt;&quot;feature/water.jpg&quot;}" /></entry></feed>
+In diesem Bereich arbeiten wir seit mehr als 10 Jahren eng mit der &lt;a href=&quot;http://www.carela.com&quot;&gt;Carela Gruppe&lt;/a&gt; zusammen, um die Qualität unseres Trinkwassers zu sichern und zu erhalten.&lt;/p&gt;</content><author><name>habighorst</name></author><category term="Kunden" /><category term="Partner" /><category term="Wasserhygiene" /><category term="Habighorst" /><summary>Zu unseren zufriedenen und langjährigen Kunden zählen wir zahlreiche Wasserversorger und Stadtwerke im gesamten norddeutschen Raum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.habighorst.org{&quot;feature&quot;=&gt;&quot;feature/water.jpg&quot;}" /></entry><entry><title>Leistungen für Wasser- und Gaszählerwechsel</title><link href="http://www.habighorst.org/service/Leistungen-Services/" rel="alternate" type="text/html" title="Leistungen für Wasser- und Gaszählerwechsel" /><published>2015-08-01T09:00:00+00:00</published><updated>2015-08-01T09:00:00+00:00</updated><id>http://www.habighorst.org/service/Leistungen-Services</id><content type="html" xml:base="http://www.habighorst.org/service/Leistungen-Services/">&lt;blockquote&gt;
+  &lt;p&gt;Über 20 Jahre Erfahrung.&lt;/p&gt;
+
+  &lt;p&gt;Wir wissen worüber wir sprechen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Für uns gehört zum Zählerwechsel aber mehr als nur der turnusmäßige Austausch der Zähler.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unsere Leistungen im Überblick&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Benachrichtigung des Kunden&lt;/li&gt;
+    &lt;li&gt;Auswechseln von Wasserzählern (alle Größen)&lt;/li&gt;
+    &lt;li&gt;Hygienischer Transport und Einbau beim Kunden&lt;/li&gt;
+    &lt;li&gt;Zusatzarbeiten nach Wunsch&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jeder ihrer Kunden erhält von uns ein Anschreiben mit einem Terminvorschlag, sowie einer Möglichkeit diesen zu ändern.&lt;/p&gt;
+
+&lt;p&gt;Unsere Mitarbeiter sind kundenfreundlich und zuvorkommend.&lt;/p&gt;
+
+&lt;p&gt;Hygiene und Service sind für uns selbstverständlich, schauen sie gerne im &lt;a href=&quot;/articles&quot;&gt;Bereich Wasserhygiene&lt;/a&gt; nach unseren Referenzen und Standards. &lt;a href=&quot;/assets/external/Twin.pdf&quot;&gt;weiterführende Informationen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wir bieten selbstverständlich auch fast alle Arbeiten auf Wunsch zusätzlich und nach Absprache an.&lt;/p&gt;</content><author><name>habighorst</name></author><category term="Zählerwechsel" /><category term="Leistungen" /><category term="Habighorst" /><summary>Über 20 Jahre Erfahrung.
+
+  Wir wissen worüber wir sprechen.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.habighorst.org{&quot;feature&quot;=&gt;&quot;feature/water.jpg&quot;}" /></entry><entry><title>Leistungen rund um Trinkwasser und -behälter</title><link href="http://www.habighorst.org/hygiene/Leistungen-Wasserhygiene/" rel="alternate" type="text/html" title="Leistungen rund um Trinkwasser und -behälter" /><published>2015-08-01T09:00:00+00:00</published><updated>2015-08-01T09:00:00+00:00</updated><id>http://www.habighorst.org/hygiene/Leistungen-Wasserhygiene</id><content type="html" xml:base="http://www.habighorst.org/hygiene/Leistungen-Wasserhygiene/">&lt;p&gt;&lt;strong&gt;Unsere Leistungen im Überblick&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#trinkwasserbehlter&quot; id=&quot;markdown-toc-trinkwasserbehlter&quot;&gt;Trinkwasserbehälter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#rohrleitungen&quot; id=&quot;markdown-toc-rohrleitungen&quot;&gt;Rohrleitungen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#akkreditierte-probenentnahme---analyse&quot; id=&quot;markdown-toc-akkreditierte-probenentnahme---analyse&quot;&gt;akkreditierte Probenentnahme &amp;amp; -analyse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;Wasser ist ein Naturprodukt und das soll es auch bleiben.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;trinkwasserbehlter&quot;&gt;Trinkwasserbehälter&lt;/h2&gt;
+
+&lt;p&gt;Reinigung und Desinfektion von Trinkwasserbehältern der kommunalen und industriellen Wasserversorgung gemäß den Vorgabe aus DVGW und TrinkwV.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hygiene/Reservoir_Schlund.jpg&quot; alt=&quot;Trinkwasserbehälter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rohrleitungen&quot;&gt;Rohrleitungen&lt;/h2&gt;
+
+&lt;p&gt;Von Hausleitungen bis hin zu industriellen Leitungssystemen, reinigen und desinfizieren wir gegen mineralische Verunreinigungen wie Kalk oder Mangan oder gegen biologische Verunreinigungen wie Legionellen oder E-Koli Bakterien.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hygiene/Tube.jpg&quot; alt=&quot;Querschnitt einer Rohrleitung&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;akkreditierte-probenentnahme---analyse&quot;&gt;akkreditierte Probenentnahme &amp;amp; -analyse&lt;/h2&gt;
+
+&lt;p&gt;Für uns ist es selbstverständlich das Sauberkeit von Trinkwasser immer auch Bewiesen werden muss. Deshalb nehmen wir Proben und lassen diese bei akkreditierten Instituten analysieren.&lt;/p&gt;
+
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/_FlFB0M0RmU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;</content><author><name>habighorst</name></author><category term="Leistungen" /><category term="Wasserhygiene" /><category term="Habighorst" /><summary>Unsere Leistungen im Überblick</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.habighorst.org{&quot;feature&quot;=&gt;&quot;feature/water.jpg&quot;}" /></entry></feed>

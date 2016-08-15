@@ -20,10 +20,10 @@
 <loc>http://www.habighorst.org/</loc>
 </url>
 <url>
-<loc>http://www.habighorst.org/about/</loc>
+<loc>http://www.habighorst.org/tags/</loc>
 </url>
 <url>
-<loc>http://www.habighorst.org/tags/</loc>
+<loc>http://www.habighorst.org/impressum/</loc>
 </url>
 <url>
 <loc>http://www.habighorst.org/articles/</loc>
@@ -33,6 +33,9 @@
 </url>
 <url>
 <loc>http://www.habighorst.org/blog/</loc>
+</url>
+<url>
+<loc>http://www.habighorst.org/about/</loc>
 </url>
 <url>
 <loc>http://www.habighorst.org/google5fbf89dce2c1d839.html</loc>

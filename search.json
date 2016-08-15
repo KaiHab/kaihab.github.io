@@ -45,13 +45,13 @@
   
 
   
-    ,{
-      "title"			: "Wie sie uns erreichen",
-      "link"			: "http://www.habighorst.org/about/",
-      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
-    }
-  
 
+  
+    ,{
+      "title"			: "Impressum",
+      "link"			: "http://www.habighorst.org/impressum/",
+      "excerpt"		: ""
+    }
   
 
   
@@ -77,6 +77,14 @@
       "title"			: "Zählerwechsel",
       "link"			: "http://www.habighorst.org/blog/",
       "excerpt"		: "Informationen zu unseren Dienstleistungen für Versorger"
+    }
+  
+
+  
+    ,{
+      "title"			: "Wie sie uns erreichen",
+      "link"			: "http://www.habighorst.org/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
 

@@ -56,20 +56,20 @@
 
   
     ,{
-      "title"			: "Wasserhygiene",
-      "link"			: "https://www.habighorst.org/articles/",
-      "excerpt"		: "Angebote und Informationen rund um Trinkwasser und Wasserhygiene."
-    }
-  
-
-  
-
-  
-    ,{
       "title"			: "Theme Setup",
       "link"			: "https://www.habighorst.org/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
+  
+
+  
+    ,{
+      "title"			: "Wie sie uns erreichen",
+      "link"			: "https://www.habighorst.org/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
   
 
   
@@ -82,9 +82,9 @@
 
   
     ,{
-      "title"			: "Wie sie uns erreichen",
-      "link"			: "https://www.habighorst.org/about/",
-      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+      "title"			: "Wasserhygiene",
+      "link"			: "https://www.habighorst.org/articles/",
+      "excerpt"		: "Angebote und Informationen rund um Trinkwasser und Wasserhygiene."
     }
   
 
